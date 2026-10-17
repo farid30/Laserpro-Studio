@@ -1,0 +1,6 @@
+{
+  "name": "LaserPro Studio",
+  "description": "Professional CNC laser engraving and cutting software with CAD design canvas, SVG/DXF import, toolpath and G-code generation, and GRBL controller machine control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
